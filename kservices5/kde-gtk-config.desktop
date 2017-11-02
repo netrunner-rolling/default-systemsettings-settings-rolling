@@ -67,6 +67,6 @@ Type=Service
 X-KDE-Library=kcm_kdegtkconfig
 # X-KDE-ParentApp=kcontrol
 X-KDE-ServiceTypes=KCModule
-X-KDE-System-Settings-Parent-Category=desktop-appearance
+X-KDE-System-Settings-Parent-Category=personal
 X-KDE-Weight=90
 
