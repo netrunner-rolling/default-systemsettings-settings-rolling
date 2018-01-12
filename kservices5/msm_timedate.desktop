@@ -5,7 +5,8 @@ Exec=kcmshell5 msm_timedate
 
 X-KDE-Library=msm_timedate
 X-KDE-ServiceTypes=KCModule
-X-KDE-System-Settings-Parent-Category=other
+X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-Weight=20
 X-KDE-ParentApp=kcontrol
 X-KDE-PluginKeyword=msm_timedate
 X-KDE-Keywords=timedate

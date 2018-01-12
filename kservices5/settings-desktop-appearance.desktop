@@ -2,12 +2,12 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=desktop-appearance
-X-KDE-System-Settings-Parent-Category=personal
+X-KDE-System-Settings-Parent-Category=system-administration
 Icon=preferences-desktop-theme
-X-KDE-Weight=50
+X-KDE-Weight=1
 
 
-Name=Desktop Appearance
+Name=Plasma Tweaks
 Name[ar]=مظهر مساحة العمل
 Name[ast]=Apariencia del espaciu de trabayu
 Name[bg]=Изглед на работния плот

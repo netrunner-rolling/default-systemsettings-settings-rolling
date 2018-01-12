@@ -3,7 +3,7 @@ Type=Service
 Icon=audio-card
 Exec=kcmshell5 msm_mhwd
 
-X-KDE-System-Settings-Parent-Category=advanced
+X-KDE-System-Settings-Parent-Category=hardware
 X-KDE-Weight=15
 
 X-KDE-Library=msm_mhwd

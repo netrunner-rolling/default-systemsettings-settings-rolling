@@ -9,7 +9,7 @@ X-KDE-Library=kwincompositing
 X-KDE-PluginKeyword=compositing
 X-KDE-ParentApp=kcontrol
 
-X-KDE-System-Settings-Parent-Category=workspace-behavior
+X-KDE-System-Settings-Parent-Category=display
 X-KDE-Weight=15
 
 Name=Compositor

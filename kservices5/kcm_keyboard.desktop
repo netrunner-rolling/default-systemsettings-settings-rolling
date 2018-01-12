@@ -10,7 +10,7 @@ X-KDE-Library=kcm_keyboard
 X-KDE-Init-Symbol=keyboard
 X-KDE-ParentApp=kcontrol
 
-X-KDE-System-Settings-Parent-Category=input-devices
+X-KDE-System-Settings-Parent-Category=other
 X-KDE-Weight=10
 OnlyShowIn=KDE;
 

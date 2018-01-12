@@ -2,9 +2,9 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=workspace-behavior
-X-KDE-System-Settings-Parent-Category=personal
+X-KDE-System-Settings-Parent-Category=system-administration
 Icon=plasma
-X-KDE-Weight=40
+X-KDE-Weight=2
 
 Name=Workspace Behaviour
 Name[ar]=سلوك مساحة العمل

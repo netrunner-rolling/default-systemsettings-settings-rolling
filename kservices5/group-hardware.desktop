@@ -3,7 +3,7 @@ Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=hardware
 X-KDE-System-Settings-Parent-Category=
-X-KDE-Weight=200
+X-KDE-Weight=250
 Icon=preferences-desktop-peripherals
 
 Name=Hardware

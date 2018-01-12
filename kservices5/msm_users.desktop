@@ -6,7 +6,7 @@ X-KDE-Weight=10
 
 X-KDE-Library=msm_users
 X-KDE-ServiceTypes=KCModule
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=other
 X-KDE-ParentApp=kcontrol
 X-KDE-PluginKeyword=msm_users
 X-KDE-Keywords=users

@@ -2,11 +2,11 @@
 Type=Service
 Icon=preferences-system
 Exec=kcmshell5 msm_kernel
-X-KDE-Weight=10
+X-KDE-Weight=1000
 
 X-KDE-Library=msm_kernel
 X-KDE-ServiceTypes=KCModule
-X-KDE-System-Settings-Parent-Category=advanced
+X-KDE-System-Settings-Parent-Category=hardware
 X-KDE-ParentApp=kcontrol
 X-KDE-PluginKeyword=msm_kernel
 X-KDE-Keywords=kernel
