@@ -9,7 +9,7 @@ X-KDE-Library=kcm_knotify
 X-KDE-ParentApp=kcontrol
 
 X-KDE-System-Settings-Parent-Category=workspace-behavior
-X-KDE-Weight=10
+X-KDE-Weight=100
 
 Name=Manage Notifications
 Name[ar]=أدر التنبيهات
